@@ -9,14 +9,14 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
 
 ### `Top 20 Projects List`
 
- - [ ] Vanilla JavaScript stopwatch
+ - [x] Vanilla JavaScript stopwatch
  - [ ] Form Validation in JavaScript
  - [ ] JavaScript clock
  - [ ] JavaScript calculator
  - [ ] Breakout Game
- - [ ] JavaScript drum kit
+ - [x] JavaScript drum kit
  - [ ] Guess the Color game
- - [ ] Tip calculator
+ - [x] Dice Game
  - [ ] Palindrome checker
  - [ ] To-do list
  - [ ] JavaScript timeline
@@ -25,7 +25,7 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [ ] Hangman game
  - [ ] Tic Tac Toe
  - [ ] Guess the number game
- - [ ] Pairs game
+ - [x] Simon game
  - [ ] Maze game
  - [ ] JavaScript weather app
  - [ ] JavaScript browser code editor
