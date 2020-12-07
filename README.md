@@ -9,3 +9,26 @@ It is a scripting language that enables you to create dynamically updating conte
 
 ### `Top 20 Projects List`
 
+ - [ ] Vanilla JavaScript stopwatch
+ - [ ] Form Validation in JavaScript
+ - [ ] JavaScript clock
+ - [ ] JavaScript calculator
+ - [ ] Breakout Game
+ - [ ] JavaScript drum kit
+ - [ ] Guess the Color game
+ - [ ] Tip calculator
+ - [ ] Palindrome checker
+ - [ ] To-do list
+ - [ ] JavaScript timeline
+ - [ ] Flames Game
+ - [ ] JavaScript quiz
+ - [ ] Hangman game
+ - [ ] Tic Tac Toe
+ - [ ] Guess the number game
+ - [ ] Pairs game
+ - [ ] Maze game
+ - [ ] JavaScript weather app
+ - [ ] JavaScript browser code editor
+
+### `Note`
+ This Repositroy is in progress and I will keep updating the project code when done. Once the project is done I'll check the list. Anyone want to contribute, welcome.
