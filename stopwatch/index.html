@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Stopwatch</title>
+		<link rel="stylesheet" href="styles.css">
+		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+		  <script src="https://kit.fontawesome.com/d64b5afa4a.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+
+		<div id="timerContainer" class="wrapper">
+		<h1><i class="fas fa-2x fa-stopwatch"></i></h1>
+		<div class="timer beg" onclick="startTimer()">Start Timer!</div>
+		<!-- <p class="beg "><span id="seconds">00 </span> <span class="mid"> : </span><span id="tens"> 00</span></p> -->
+		<div class="ctrl">
+			<button class="startTimer reset" onclick="startTimer()" ><i class="fas fa-4x fa-play"></i></button>
+			<button class="pauseTimer reset" onclick="pauseTimer()"><i class="fas fa-4x fa-pause"></i></button>
+			<button class="resetTimer reset" onclick="resetTimer()"><i class="fas fa-4x fa-redo-alt"></i></button>
+		</div>
+
+		<p>Made by <a target="_blank "href="https://hitik20.tech/">Hitik</a> </p>
+		</div>
+
+
+		<!-- <div id="timerContainer">
+		<div class="timer" onclick="startTimer()">Start Timer!</div>
+		<div class="startTimer reset" onclick="startTimer()" >
+		    <i class="fas fa-play"></i>
+		  </div>
+		<div class="pauseTimer reset" onclick="pauseTimer()" >
+		    <i class="fas fa-pause"></i>
+		  </div>
+		<div class="resetTimer reset" onclick="resetTimer()">Reset</div>
+		</div> -->
+
+<script src="app.js">
+</script>
+	</body>
+</html>
