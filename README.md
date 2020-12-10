@@ -11,7 +11,7 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
 
  - [x] Vanilla JavaScript stopwatch
  - [ ] Form Validation in JavaScript
- - [ ] JavaScript clock
+ - [x] JavaScript clock
  - [ ] JavaScript calculator
  - [x] Breakout Game
  - [x] JavaScript drum kit
