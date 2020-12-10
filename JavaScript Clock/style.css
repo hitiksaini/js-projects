@@ -1,0 +1,17 @@
+body{
+    background-color: #222831;
+    font-family: 'Archivo Black', sans-serif;
+}
+h1{
+  text-align: center;
+  color: #fff;
+}
+a{
+  color: #ffa931;
+  text-decoration: none;
+}
+#clock{
+  display:block;
+margin-left: auto;
+margin-right: auto;
+}
