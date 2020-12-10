@@ -13,16 +13,16 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [ ] Form Validation in JavaScript
  - [ ] JavaScript clock
  - [ ] JavaScript calculator
- - [ ] Breakout Game
+ - [x] Breakout Game
  - [x] JavaScript drum kit
  - [ ] Guess the Color game
  - [x] Dice Game
  - [ ] Palindrome checker
  - [ ] To-do list
  - [ ] JavaScript timeline
- - [ ] Flames Game
- - [ ] JavaScript quiz
- - [ ] Hangman game
+ - [x] Flames Game
+ - [x] JavaScript quiz
+ - [x] Hangman game
  - [ ] Tic Tac Toe
  - [ ] Guess the number game
  - [x] Simon game
