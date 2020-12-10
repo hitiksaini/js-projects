@@ -1,0 +1,31 @@
+body{
+  color: #dddddd;
+      background-color: #383e56;
+}
+a{
+  color: #0e9aa7;
+  text-decoration: none;
+}
+h1{
+font-size: 4.5rem;
+  margin-top: 3%;
+text-align: center;
+
+}
+
+p{
+font-size: 1.3rem;
+  text-align: center;
+}
+.game{
+  padding-top: 1.5%;
+
+  margin-top: 3%;
+  border: solid #dddddd;
+  border: solid 1px;
+  border-bottom-color: #383e56;
+    background-color: #383e56;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
