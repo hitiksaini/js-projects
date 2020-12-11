@@ -24,7 +24,7 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [x] JavaScript quiz
  - [x] Hangman game
  - [ ] Tic Tac Toe
- - [ ] Guess the number game
+ - [x] Guess the number game
  - [x] Simon game
  - [ ] Maze game
  - [ ] JavaScript weather app
