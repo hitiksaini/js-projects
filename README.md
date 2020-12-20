@@ -1,5 +1,5 @@
-## `Top-20 JavaScript Projects for Beginners`
-I am creating this repository for anyone who is willing to learn JavaScript(I am also learning :) it never stops). Let's follow **learning by doing approach** and make top-20 JS projects which will eventually help to get better insights of this language.
+## `Top-15 JavaScript Projects for Beginners`
+I am creating this repository for anyone who is willing to learn JavaScript(I am also learning :) it never stops). Let's follow **learning by doing approach** and make top-15 JS projects which will eventually help to get better insights of this language.
 
 ### `What is JavaScript ?`
 
@@ -18,17 +18,13 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [ ] Guess the Color game
  - [x] Dice Game
  - [ ] Palindrome checker
- - [ ] To-do list
- - [ ] JavaScript timeline
  - [x] Flames Game
  - [x] JavaScript quiz
  - [x] Hangman game
  - [ ] Tic Tac Toe
  - [x] Guess the number game
  - [x] Simon game
- - [ ] Maze game
- - [ ] JavaScript weather app
- - [ ] JavaScript browser code editor
+
 
 ### `Note`
  This Repositroy is in progress and I will keep updating the project code when done. Once the project is done I'll check the list. Anyone want to contribute, welcome.
