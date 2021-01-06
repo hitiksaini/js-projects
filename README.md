@@ -15,7 +15,7 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [x] JavaScript Calculator
  - [x] Breakout Game
  - [x] JavaScript drum kit
- - [ ] Guess the Color game
+ - [x] Guess the Color game
  - [x] Dice Game
  - [ ] Palindrome checker
  - [x] Flames Game
