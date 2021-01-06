@@ -27,4 +27,4 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
 
 
 ### `Note`
- This Repositroy is in progress and I will keep updating the project code when done. Once the project is done I'll check the list. Anyone want to contribute, welcome.
+This Repositroy is in progress and always will because as I said above 'learning never stops'! I will keep updating the projects whenever done or even if I find something good on the web to share for this repository. Anyone want to contribute and make this a great collection of mini projects like these, Welcome :)
