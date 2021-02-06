@@ -24,7 +24,10 @@ The language that **powers the web** by BRENDAN EICH. He first named it livescri
  - [ ] Tic Tac Toe
  - [x] Guess the number game
  - [x] Simon game
-
+ 
+ 
+### `Other good Projects`
+ - [ ] Coming soon
 
 ### `Note`
 This Repositroy is in progress and always will because as I said above 'learning never stops'! I will keep updating the projects whenever done or even if I find something good on the web to share for this repository. Anyone want to contribute and make this a great collection of mini projects like these, Welcome :)
